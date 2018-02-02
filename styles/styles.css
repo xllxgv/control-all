@@ -2,10 +2,13 @@
 .menu-conn
 {
     font-family: 'Carrois Gothic SC', sans-serif;
+    color: white;
     background-color: #34495e;
+
 }
 
-.sistema-panel html
+.sistema-panel html col-sm-6
 {
+    font-family: 'Carrois Gothic SC', sans-serif;
     background-color: #ecf0f1;
 }
